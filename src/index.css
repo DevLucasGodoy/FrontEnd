@@ -1,0 +1,61 @@
+.logomarca{
+  width: 100px;
+  height: 33px;
+  background: url("img/logo.png") no-repeat 0 0;
+  display: block;
+}
+
+.logo{
+  float: left;
+}
+
+.menu{
+  float: right;
+}
+
+.menu__li{
+  float: left;
+  margin: 0 10px;
+}
+
+.clear{
+  clear: both;
+}
+
+.center{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.apresentacao{
+  background: url("../img/img1.png") no-repeat center 0;
+  padding-top: 40px;
+}
+
+.menu__link{
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.bt-singin{
+  border: 1px solid #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 10px 30px;
+  border-radius: 4px;
+  margin-left: 30px;
+}
+
+.bt-singup{
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 10px 30px;
+  border-radius: 4px;
+  background: #2F281E;
+}

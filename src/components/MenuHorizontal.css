@@ -1,0 +1,32 @@
+.logomarca{
+  width: 100px;
+  height: 60px;
+  background: url("./img/logo.png") no-repeat 0 0;
+}
+
+.logo{
+  float: left;
+}
+
+.menu{
+  float: right;
+}
+
+.menu__li{
+  float: left;
+  margin: 0 10px;
+}
+
+.clear{
+  clear: both;
+}
+
+.center{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.apresentacao{
+  background: url("./img/img1.png") no-repeat center 0;
+  padding-top: 40px;
+}
